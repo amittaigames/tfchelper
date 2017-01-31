@@ -8,5 +8,6 @@
 
 #include "tfc_list.h"
 #include "tfc_string.h"
+#include "tfc_error.h"
 
 #endif // TFC_H
